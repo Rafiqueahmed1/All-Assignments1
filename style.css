@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(251, 252, 252);
+}
+.container{
+    width: 330px;
+    padding: 32px 16px;
+    margin: 50px auto;
+    background-color: rgb(106, 155, 156);
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgba(0,0,0,0.1);
+
+}
+form input{
+    width: 92%;
+    margin: 5px;
+    padding: 15px;
+}
+.member {
+    margin: 5px;
+    text-decoration: none;
+}
+.member a{
+    
+    text-decoration: none;
+}
+button{
+    background-color: blue;
+    width: 92%;
+    padding: 15px;
+    border: none;
+    box-shadow: 0 20px 35px rgba(0,0,1,0.1);
+    color: aliceblue;
+    font-size: 20px;
+}
+.fsd{
+    
+    padding: 10px 5px;
+}
+.fsd a{
+    text-decoration: none;
+    color: black;
+}
+.terms{
+display: flex;
+padding-right: 90px;
+}
